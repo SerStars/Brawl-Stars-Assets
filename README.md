@@ -1,7 +1,7 @@
 Welcome to my Brawl Stars Assets Page!
 Created for content creators and other fan content in line with Supercell's fan content policy (https://supercell.com/fan-content-policy/)
 
-GIFS/ANIMATION ARE IN ANOTHER PLACE, THEY WILL BE HERE (MAYBE_ SOON™️
+Please see [THIS](https://github.com/SerStars/Brawl-Stars-Assets/blob/README/!!!ANIMATIONS%5CGIFS) if you want gifs/animations.
 
 You can also get more/find more! Join Brawl Assets, the largest Supercell Games Assets providing Discord Server! https://discord.gg/B8SxugUuZR!
 
